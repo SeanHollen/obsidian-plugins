@@ -1,0 +1,9 @@
+{
+  "id": "wysiwyg-mode",
+  "name": "WYSIWYG Mode",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "A third editing mode that keeps markdown markers hidden even on the cursor line.",
+  "author": "sean",
+  "isDesktopOnly": false
+}
